@@ -1,6 +1,7 @@
 [
   {
-    "name": "Trending",
-    "endpoint": "/api/movies/list.json"
+    "id": "cat_movies",
+    "title": "Movies",
+    "source": "/api/movies/list.json"
   }
 ]
