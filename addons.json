@@ -1,0 +1,8 @@
+[
+  {
+    "name": "My Movies",
+    "description": "Custom addon",
+    "icon": "https://picsum.photos/100",
+    "endpoint": "/api/movies/list.json"
+  }
+]

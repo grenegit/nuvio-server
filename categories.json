@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Trending",
+    "endpoint": "/api/movies/list.json"
+  }
+]

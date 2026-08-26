@@ -1,0 +1,9 @@
+[
+  {
+    "id": "movie_1",
+    "title": "Sample Movie",
+    "year": 2024,
+    "poster": "https://picsum.photos/300/450",
+    "stream": "https://test-stream.m3u8"
+  }
+]
