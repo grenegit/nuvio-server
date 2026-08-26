@@ -1,6 +1,0 @@
-{
-  "home": "/api/home",
-  "movies": "/api/movies",
-  "addons": "/api/addons",
-  "plugins": "/api/plugins"
-}
